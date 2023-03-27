@@ -16,3 +16,9 @@ p
     font-family: monospace;
     
 }
+
+ img
+{
+    width: 200px;
+    filter: blur(5px);
+}
