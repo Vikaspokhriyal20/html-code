@@ -1,9 +1,17 @@
 h3
 {
     color: red;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+
 }
 
 p
 {
     color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    
 }
